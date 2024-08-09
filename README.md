@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 </h1>
 
 [//]: <> (About) 
-<h3 align="center">A passionate Python developer from India 🇮🇳</h3><br/>
+<h2 align="center">A passionate Backend Developer((Python) from India 🇮🇳</h2><br/>
 
 <div align="center">
  
- 🔭 I’m currently working in **Primesoft** as Data Science Trainee
+ 🔭 I’m completed my Collage project(Rubik's cube app)
  
  🌱 I’m currently learning **Ethical hacking**
 
