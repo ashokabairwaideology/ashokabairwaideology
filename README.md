@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 [//]: <> (Name Live Typing) 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🙏;+I'm+Ashoka+Bairwa!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=100&duration=4000&lines=Hi+There!+🙏;+I'm+Ashoka+Bairwa!;" />
 </h1>
 
 [//]: <> (About) 
