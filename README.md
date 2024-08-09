@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-[//]: <> (Language Information)
-<h2 align="center">⚒️ Languages-Framework-Tools⚒️</h2>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ashokabairwa3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashokabairwa3" height="30" width="40" /></a>
@@ -26,12 +26,7 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/ashoka_bairwa_ideology" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashoka_bairwa_ideology" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ashoka_bairwa_ideology382" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ashoka_bairwa_ideology382" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ashokabairwa38" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ashokabairwa38" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ashokabairwa382" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashokabairwa382" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ashokabairwa382" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ashokabairwa382" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ashoka_bairwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashoka_bairwa" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@ashoka16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ashoka16" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ashokabairwa382" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ashokabairwa382" height="30" width="40" /></a>
-</p>
+
 </div>
 [//]: <> (Visitior Badge) 
 <a href="![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fashokabairwaideology%2FHacking-tools-for-linux&labelColor=%2337d67a&countColor=%23ba68c8&style=flat-square)"><img align="right" src="https://api.visitorbadge.io/api/visitors?path=ashokanairwaideology382&labelColor=%23697689&countColor=%23d9e3f0" /></a><br/>
