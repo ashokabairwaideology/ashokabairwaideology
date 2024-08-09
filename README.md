@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <hr/>
 
-
+<div>
 [//]: <> (Language Information)
 <h2 align="center">⚒️ Languages-Framework-Tools⚒️</h2>
 <h3 align="left">Connect with me:</h3>
@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 <a href="https://www.hackerearth.com/@ashoka16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ashoka16" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ashokabairwa382" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ashokabairwa382" height="30" width="40" /></a>
 </p>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
@@ -95,7 +96,6 @@ Here are some ideas to get you started:
 
 
 
-<br/><br/>
 
 <hr/>
 
