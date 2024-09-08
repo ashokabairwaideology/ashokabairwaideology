@@ -28,10 +28,10 @@
   <img width='30%' src='https://i9.ytimg.com/vi/HV2NcIzRMEo/maxresdefault.jpg?v=66c6d072&sqp=CLiV9rYG&rs=AOn4CLDqvxTWwEsk06t5Kh27atvLvxPUEQ' alt='Dream' />
 </a>
 <a href='https://youtu.be/8KCn_z8zOmw?si=PnilFbDH-ZUD-viK' target='_blank'>
-  <img width='30%' src='https://youtu.be/8KCn_z8zOmw?si=PnilFbDH-ZUD-viK' alt='Daily motivation' />
+  <img width='30%' src='https://i9.ytimg.com/vi/8KCn_z8zOmw/sddefault.jpg?v=66c6be66&sqp=CLiV9rYG&rs=AOn4CLD5XELdvgeo4ltGBan6wf8pi9geag' alt='Daily motivation' />
 </a>
 <a href='https://youtu.be/AuIzpaAC5Ig?si=6U6zf6zNGajw7CW0' target='_blank'>
-  <img width='30%' src='https://youtu.be/AuIzpaAC5Ig?si=6U6zf6zNGajw7CW0' alt='Fear' />
+  <img width='30%' src='https://i9.ytimg.com/vi/AuIzpaAC5Ig/hqdefault.jpg?v=66c6bd6e&sqp=CLiV9rYG&rs=AOn4CLBnbosgiYv3XUwspOfliFF7b187Ig' alt='Fear' />
 </a>
 
 # 💻 Tech Stack:
