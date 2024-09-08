@@ -5,19 +5,15 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/user-attachments/assets/d2a38e55-1119-47b4-8612-4c20179a627c"  />
+<img align="right" src="https://img.shields.io/badge/Intel-Core_i5_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+
+<img align="right" height="250" src="https://github.com/user-attachments/assets/d2a38e55-1119-47b4-8612-4c20179a627c"  />
 
 
-###
-
-<br clear="both">
-
-<img src="![laptop](https://github.com/user-attachments/assets/24bbee21-a68f-4b85-a9bf-06ea75c9a0dd)" />
- />
 
 ###
 
-<img align="right" src="https://profile-counter.glitch.me/ashokabairwaideology/count.svg?"  />
+
 
 ###
 
@@ -128,4 +124,5 @@
 	
 ![Donate us](https://img.shields.io/badge/phonepe-3DDC84?style=for-the-badge&logo=phonepe&logoColor=white&color=purple)
 
+<img align="right" src="https://profile-counter.glitch.me/ashokabairwaideology/count.svg?"  />
 
