@@ -3,7 +3,8 @@
 <img align="right" src="https://visitcount.itsvg.in/api?id=ashokabairwaideology&icon=6&color=10)](https://visitcount.itsvg.in" />
 
 
-<img align="centre" height="300" src="https://github.com/user-attachments/assets/d2a38e55-1119-47b4-8612-4c20179a627c"  />
+<img align="centre" height="300" src="https://github.com/user-attachments/assets/32bac2f8-6bb2-41bf-9e93-76545d828306"  />
+
 
 
 
