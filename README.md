@@ -2,9 +2,10 @@
 <img align="left" src="https://img.shields.io/badge/Intel-Core_i5_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
 <img align="right" src="https://visitcount.itsvg.in/api?id=ashokabairwaideology&icon=6&color=10)](https://visitcount.itsvg.in" />
 
+### 
 
-<img align="left" width="50%" src="https://github.com/user-attachments/assets/32bac2f8-6bb2-41bf-9e93-76545d828306"  />
-<img align="right" width="50%" src="https://github.com/user-attachments/assets/626fe7e4-4e17-41e4-8185-b89f7710cf57"  />
+<img align="centre" height="50%" src="https://github.com/user-attachments/assets/32bac2f8-6bb2-41bf-9e93-76545d828306"  />
+
 
 
 
