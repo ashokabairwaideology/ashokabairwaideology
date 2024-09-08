@@ -9,7 +9,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ashokabairwaideology/ashokabairwaideology/output/snake.svg" alt="Snake animation" />
+<img src="![laptop](https://github.com/user-attachments/assets/24bbee21-a68f-4b85-a9bf-06ea75c9a0dd)" />
+ />
 
 ###
 
