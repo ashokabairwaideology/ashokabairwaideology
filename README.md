@@ -33,8 +33,8 @@
 <a href='https://youtu.be/AuIzpaAC5Ig?si=6U6zf6zNGajw7CW0' target='_blank'>
   <img width='20%' src='https://i9.ytimg.com/vi/AuIzpaAC5Ig/hqdefault.jpg?v=66c6bd6e&sqp=CLiV9rYG&rs=AOn4CLBnbosgiYv3XUwspOfliFF7b187Ig' alt='Fear' />
 </a>
-<a href='https://youtu.be/0PI9AQ9GhdU?si=MVEoFtRFm277tAI_' target='_blank'>
-  <img width='20%' src='https://i9.ytimg.com/vi/0PI9AQ9GhdU/maxresdefault.jpg?v=66c69c2c&sqp=COSX9rYG&rs=AOn4CLAGnhhuBtE_XEJEemqlVQ8O7vDbBg' alt='Daily motivation' />
+<a href='https://youtu.be/YAV7m9lv3OQ' target='_blank'>
+  <img width='20%' src='https://i9.ytimg.com/vi/YAV7m9lv3OQ/sddefault.jpg?v=66c45962&sqp=CJCa9rYG&rs=AOn4CLBzgeai44HEluhUsaGfRH9ma-Ib4w' alt='Daily motivation' />
 </a>
 <a href='https://youtu.be/IhPGKOr8xF4' target='_blank'>
   <img width='20%' src='https://i9.ytimg.com/vi/IhPGKOr8xF4/hqdefault.jpg?v=66c45067&sqp=COSX9rYG&rs=AOn4CLB07wG22jytJ48C7t7gc6HasCvFpg' alt='Fear' />
