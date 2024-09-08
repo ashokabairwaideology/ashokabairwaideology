@@ -94,7 +94,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=ashokabairwaideology&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Ashoka-bairwa Quotes
-<img align="centre" height="300" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko"  />
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
