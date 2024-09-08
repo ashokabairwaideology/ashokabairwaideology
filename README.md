@@ -24,8 +24,8 @@
 
 ## Developer profile
 [![Leetcode]( 	https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Ashoka_bairwa)[![Hackerrank]( 	https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/ashokabairwa382)[![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/en/profile/15521554)[![Chodchef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/ashokabairwa38) [![Hackerearth]( 	https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@ashoka16)
-### 📹 Visit my channel 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ashoka-ideology382a)click here
+### 📹 s
+[![Youtube Channel](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ashoka-ideology382a)
 
 <a href='https://youtu.be/AtQYFBt0Pmk' target='_blank'>
   <img width='20%' src='https://i9.ytimg.com/vi/AtQYFBt0Pmk/sddefault.jpg?v=66c45575&sqp=COSX9rYG&rs=AOn4CLCP1zwmQF__zlo9NwCFB5chgHHolA' alt='Finish' />
