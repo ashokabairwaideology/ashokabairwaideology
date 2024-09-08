@@ -1,6 +1,7 @@
-###
-<img align="right" src="https://img.shields.io/badge/Intel-Core_i5_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-<img align="right" src="https://visitcount.itsvg.in/api?id=ashokabairwaideology&icon=6&color=10)](https://visitcount.itsvg.in" />
+##
+<img align="left" src="https://img.shields.io/badge/Intel-Core_i5_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+##
+<img align="left" src="https://visitcount.itsvg.in/api?id=ashokabairwaideology&icon=6&color=10)](https://visitcount.itsvg.in" />
 
 
 ###
