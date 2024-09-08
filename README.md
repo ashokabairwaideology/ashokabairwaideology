@@ -76,6 +76,14 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-##
-##Donate us
-![](https://img.shields.io/badge/phonepe-3DDC84?style=for-the-badge&logo=phonepe&logoColor=white&color=purple)
+
+## 
+
+<br>
+<p align="right">
+	<a href="(https://img.shields.io/badge/phonepe-3DDC84?style=for-the-badge&logo=phonepe&logoColor=white&color=purple)"><img width="185" src="images/badge.svg" alt="Badge"></a>
+	<br><br>
+	<b>🙌 Use <a href="https://yourdonation.rocks">donations</a> to help support <b>your</b> projects! 🙌</b>
+</p>
+<br>
+
