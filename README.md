@@ -25,13 +25,13 @@
 ### 📹 Ultimate videos on youtube (https://www.youtube.com/@ashoka-ideology382a)
 
 <a href='https://youtu.be/HV2NcIzRMEo?si=llHvH1qnWf-DtoDw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/2CXDzkPxolI/mqdefault.jpg' alt='Dream' />
+  <img width='30%' src='https://youtu.be/HV2NcIzRMEo?si=llHvH1qnWf-DtoDw' alt='Dream' />
 </a>
 <a href='https://youtu.be/8KCn_z8zOmw?si=PnilFbDH-ZUD-viK' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/DCDE3MMbu1E/mqdefault.jpg' alt='Daily motivation' />
+  <img width='30%' src='https://youtu.be/8KCn_z8zOmw?si=PnilFbDH-ZUD-viK' alt='Daily motivation' />
 </a>
 <a href='https://youtu.be/AuIzpaAC5Ig?si=6U6zf6zNGajw7CW0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/J60YlqxWPXI/mqdefault.jpg' alt='Fear' />
+  <img width='30%' src='https://youtu.be/AuIzpaAC5Ig?si=6U6zf6zNGajw7CW0' alt='Fear' />
 </a>
 
 # 💻 Tech Stack:
