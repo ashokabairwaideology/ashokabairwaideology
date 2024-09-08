@@ -1,7 +1,7 @@
 ##
 <img align="left" src="https://img.shields.io/badge/Intel-Core_i5_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
 <img align="right" src="https://visitcount.itsvg.in/api?id=ashokabairwaideology&icon=6&color=10)](https://visitcount.itsvg.in" />
-###
+
 
 <img align="centre" height="200" src="https://github.com/user-attachments/assets/d2a38e55-1119-47b4-8612-4c20179a627c"  />
 
