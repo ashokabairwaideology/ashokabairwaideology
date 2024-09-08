@@ -25,7 +25,7 @@
 ### 📹 Ultimate videos on youtube (https://www.youtube.com/@ashoka-ideology382a)
 
 <a href='https://youtu.be/HV2NcIzRMEo?si=llHvH1qnWf-DtoDw' target='_blank'>
-  <img width='30%' src='https://i.ytimg.com/an_webp/HV2NcIzRMEo/mqdefault_6s.webp?du=3000&sqp=CMze9bYG&rs=AOn4CLBxMJtf1xLP_zOE1OPGMlRRJ94nBw' alt='Dream' />
+  <img width='30%' src='https://i9.ytimg.com/vi/HV2NcIzRMEo/maxresdefault.jpg?v=66c6d072&sqp=CLiV9rYG&rs=AOn4CLDqvxTWwEsk06t5Kh27atvLvxPUEQ' alt='Dream' />
 </a>
 <a href='https://youtu.be/8KCn_z8zOmw?si=PnilFbDH-ZUD-viK' target='_blank'>
   <img width='30%' src='https://youtu.be/8KCn_z8zOmw?si=PnilFbDH-ZUD-viK' alt='Daily motivation' />
