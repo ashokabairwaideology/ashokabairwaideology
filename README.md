@@ -22,11 +22,10 @@
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ashoka.bairwa.96) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashoka_bairwa_ideology) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashoka-bairwa-ideology382) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ashokabairwa382a) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ashoka-ideology382a) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://web.telegram.org/k/#@movies_ashoka)[![Shorts](https://img.shields.io/badge/YouTube%20Shorts-FF0000.svg?style=for-the-badge&logo=YouTube-Shorts&logoColor=white)](https://www.youtube.com/@ashoka-ideology382a/shorts)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#all?compose=new)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ashoka.bairwa.96) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashoka_bairwa_ideology) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashoka-bairwa-ideology382) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ashokabairwa382a) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ashoka-ideology382a) 
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://web.telegram.org/k/#@movies_ashoka)[![Shorts](https://img.shields.io/badge/YouTube%20Shorts-FF0000.svg?style=for-the-badge&logo=YouTube-Shorts&logoColor=white)](https://www.youtube.com/@ashoka-ideology382a/shorts)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#all?compose=new)
 
 
-## Developer profile
-[![Leetcode]( 	https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Ashoka_bairwa)[![Hackerrank]( 	https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/ashokabairwa382)[![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/en/profile/15521554)[![Chodchef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/ashokabairwa38) [![Hackerearth]( 	https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@ashoka16)
 
 ##
 [![Youtube Channel](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ashoka-ideology382a) 
@@ -46,6 +45,9 @@
 <a href='https://youtu.be/IhPGKOr8xF4' target='_blank'>
   <img width='18%' src='https://i9.ytimg.com/vi/IhPGKOr8xF4/hqdefault.jpg?v=66c45067&sqp=COSX9rYG&rs=AOn4CLB07wG22jytJ48C7t7gc6HasCvFpg' alt='Fear' />
 </a>
+
+## Developer profile
+[![Leetcode]( 	https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Ashoka_bairwa)[![Hackerrank]( 	https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/ashokabairwa382)[![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/en/profile/15521554)[![Chodchef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/ashokabairwa38) [![Hackerearth]( 	https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@ashoka16)
 
 
 # 💻 Tech Stack:
