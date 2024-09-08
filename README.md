@@ -46,7 +46,7 @@
 [![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@ashoka16)
 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -79,7 +79,7 @@
 
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ###
 
 <div align="left">
@@ -94,6 +94,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=ashokabairwaideology&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Ashoka-bairwa Quotes
+<img align="centre" height="300" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko"  />
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
