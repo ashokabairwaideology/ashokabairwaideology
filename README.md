@@ -21,15 +21,12 @@
 ###
 
 
-## 🌐 Socials:
+## 🌐 Social Profile
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ashoka.bairwa.96) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashoka_bairwa_ideology)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashoka-bairwa-ideology382)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ashokabairwa382a) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ashoka-ideology382a) 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://web.telegram.org/k/#@movies_ashoka)
-[![Shorts](https://img.shields.io/badge/YouTube%20Shorts-FF0000.svg?style=for-the-badge&logo=YouTube-Shorts&logoColor=white)](https://www.youtube.com/@ashoka-ideology382a/shorts)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#all?compose=new)
 
 
 
@@ -118,6 +115,10 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+##
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://web.telegram.org/k/#@movies_ashoka)
+[![Shorts](https://img.shields.io/badge/YouTube%20Shorts-FF0000.svg?style=for-the-badge&logo=YouTube-Shorts&logoColor=white)](https://www.youtube.com/@ashoka-ideology382a/shorts)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#all?compose=new)
 
 
 ## 
