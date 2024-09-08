@@ -24,8 +24,8 @@
 
 ### 📹 Ultimate videos on youtube (https://www.youtube.com/@ashoka-ideology382a)
 
-<a href='https://youtu.be/HV2NcIzRMEo?si=llHvH1qnWf-DtoDw' target='_blank'>
-  <img width='20%' src='https://i9.ytimg.com/vi/HV2NcIzRMEo/maxresdefault.jpg?v=66c6d072&sqp=CLiV9rYG&rs=AOn4CLDqvxTWwEsk06t5Kh27atvLvxPUEQ' alt='Dream' />
+<a href='https://youtu.be/AtQYFBt0Pmk' target='_blank'>
+  <img width='20%' src='https://i9.ytimg.com/vi/AtQYFBt0Pmk/sddefault.jpg?v=66c45575&sqp=COSX9rYG&rs=AOn4CLCP1zwmQF__zlo9NwCFB5chgHHolA' alt='Finish' />
 </a>
 <a href='https://youtu.be/8KCn_z8zOmw?si=PnilFbDH-ZUD-viK' target='_blank'>
   <img width='20%' src='https://i9.ytimg.com/vi/8KCn_z8zOmw/sddefault.jpg?v=66c6be66&sqp=CLiV9rYG&rs=AOn4CLD5XELdvgeo4ltGBan6wf8pi9geag' alt='Daily motivation' />
@@ -36,8 +36,8 @@
 <a href='https://youtu.be/0PI9AQ9GhdU?si=MVEoFtRFm277tAI_' target='_blank'>
   <img width='20%' src='https://i9.ytimg.com/vi/0PI9AQ9GhdU/maxresdefault.jpg?v=66c69c2c&sqp=COSX9rYG&rs=AOn4CLAGnhhuBtE_XEJEemqlVQ8O7vDbBg' alt='Daily motivation' />
 </a>
-<a href='https://youtu.be/_y-xkOedCUE' target='_blank'>
-  <img width='20%' src='https://i9.ytimg.com/vi/_y-xkOedCUE/sddefault.jpg?v=66c457f4&sqp=COSX9rYG&rs=AOn4CLCDlOBmougbgZWuIDFRUZoiQHNkpA' alt='Fear' />
+<a href='https://youtu.be/IhPGKOr8xF4' target='_blank'>
+  <img width='20%' src='https://i9.ytimg.com/vi/IhPGKOr8xF4/hqdefault.jpg?v=66c45067&sqp=COSX9rYG&rs=AOn4CLB07wG22jytJ48C7t7gc6HasCvFpg' alt='Fear' />
 </a>
 
 
