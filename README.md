@@ -22,9 +22,9 @@
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ashokabairwa382a) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ashoka-ideology382a) 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/)
-[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)]
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]
-[![Follow](https://img.shields.io/github/followers/ashokabairwaideology.svg?style=social&label=Follow&maxAge=2592000)]
+[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://accounts.snapchat.com/v2/welcome)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AshokaBairwa382)
+![Follow](https://img.shields.io/github/followers/ashokabairwaideology.svg?style=social&label=Follow&maxAge=2592000)
 
 
 
@@ -141,7 +141,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://web.telegram.org/k/#@movies_ashoka)
 [![Shorts](https://img.shields.io/badge/YouTube%20Shorts-FF0000.svg?style=for-the-badge&logo=YouTube-Shorts&logoColor=white)](https://www.youtube.com/@ashoka-ideology382a/shorts)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#all?compose=new)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)]
+
 
 
 ## 
