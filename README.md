@@ -1,5 +1,6 @@
 ##
-<img align="left" src="https://img.shields.io/badge/Intel-Core_i5_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+<img align="centre" src="https://img.shields.io/badge/Intel-Core_i5_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+<img align="left" src="https://img.shields.io/github/followers/ashokabairwaideology" />
 <img align="right" src="https://visitcount.itsvg.in/api?id=ashokabairwaideology&icon=6&color=10)](https://visitcount.itsvg.in" />
 
 ### 
@@ -22,10 +23,8 @@
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ashokabairwa382a) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ashoka-ideology382a) 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/)
-[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://accounts.snapchat.com/v2/welcome)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AshokaBairwa382)
-![Followers](https://img.shields.io/github/followers/ashokabairwaideology)
-![Followers](https://img.shields.io/instagram/followers/ashoka_bairwa_ideology)
+
 
 ### Developer profile
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Ashoka_bairwa)
