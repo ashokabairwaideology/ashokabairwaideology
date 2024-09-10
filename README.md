@@ -14,8 +14,9 @@
 
 
 
-###
-## 🌐 Social Profile
+
+## 🌐 Profile
+### Social profile
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ashoka.bairwa.96) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/risky.ashoka) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashoka_bairwa_ideology)
@@ -26,7 +27,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AshokaBairwa382)
 
 
-### Developer profile
+### 💻Developer profile
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Ashoka_bairwa)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/ashokabairwa382)
 [![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/en/profile/15521554)
@@ -34,7 +35,8 @@
 [![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@ashoka16)
 
 
-## [![Youtube Channel](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ashoka-ideology382a)
+## 
+[![Youtube Channel](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ashoka-ideology382a)
 ![](https://img.shields.io/youtube/@ashoka-ideology382a/views/UCWdqlKVGfefFEqDUiViqU-Q)
 ![](https://img.shields.io/youtube/@ashoka-ideology382a/subscribers/UCWdqlKVGfefFEqDUiViqU-Q)
 
@@ -76,7 +78,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
-### Framework
+### Framework 🎞
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
@@ -108,11 +110,11 @@
 ![CV](https://img.shields.io/badge/Read.cv-111111.svg?style=for-the-badge&logo=readdotcv&logoColor=white)
 ![Sketch](https://img.shields.io/badge/SketchUp-005F9E.svg?style=for-the-badge&logo=SketchUp&logoColor=white)
 
-### Operating System
+### Operating System 🖥➜
 ![Kali linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 📈
 ###
 
 <div align="left">
@@ -144,11 +146,11 @@
 
 
 ### 
-![Skill Share](https://img.shields.io/badge/skill%20share-002333?style=for-the-badge&logo=skillshare&logoColor=white)
-![ToDo list]( 	https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white) 
+![Skill Share💡](https://img.shields.io/badge/skill%20share-002333?style=for-the-badge&logo=skillshare&logoColor=white)
+![ToDo list ⌛️]( 	https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white) 
 
 ## 
-![](https://img.shields.io/badge/Future%20Learn-000000?style=for-the-badge&logo=futurelearn&logoColor=white)
+![⏳](https://img.shields.io/badge/Future%20Learn-000000?style=for-the-badge&logo=futurelearn&logoColor=white)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### Query
 ![](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
@@ -158,14 +160,14 @@
 ##
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://web.telegram.org/k/#@movies_ashoka)
 [![Shorts](https://img.shields.io/badge/YouTube%20Shorts-FF0000.svg?style=for-the-badge&logo=YouTube-Shorts&logoColor=white)](https://www.youtube.com/@ashoka-ideology382a/shorts)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#all?compose=new)
+[![Gmail 📩](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#all?compose=new)
 
 
 
 
 
 	
-## 
+## 💲
 ![Phonepay](https://img.shields.io/badge/phonepe-3DDC84?style=for-the-badge&logo=phonepe&logoColor=white&color=purple)
 ![Googlepay]( https://img.shields.io/badge/G%20pay-2875E3?style=for-the-badge&logo=googlepay&logoColor=white)
 ![Paytm]( https://img.shields.io/badge/Paytm-002970?style=for-the-badge&logo=paytm&logoColor=00BAF2)
