@@ -1,7 +1,17 @@
 ##
 <img align="centre" src="https://img.shields.io/badge/Intel-Core_i5_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-<img align="left" src="https://img.shields.io/github/followers/ashokabairwaideology" />
+
 <img align="right" src="https://visitcount.itsvg.in/api?id=ashokabairwaideology&icon=6&color=10)](https://visitcount.itsvg.in" />
+
+### 
+<p align="center">
+  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=ashokabairwaideology&style=flat&color=blue"/> •   
+  <a href="https://user-badge.committers.top/india_private/ashokabairwaideology"><img src="https://user-badge.committers.top/india_private/JayantGoel001.svg"/></a> •
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/ashokabairwaideology?label=Followers&style=social"/> •
+  <img src="https://img.shields.io/github/stars/ashokabairwaideology?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/> •
+  <a href="https://github.com/sponsors/ashokabairwaideology"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
+</p>
+
 
 ### 
 
@@ -15,7 +25,8 @@
 
 
 
-
+### 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashokabairwaideology&theme=dracula)
 
 # 💻 Tech Stack
 ### Web development
@@ -154,7 +165,7 @@
 ## 
 ![⏳](https://img.shields.io/badge/Future%20Learn-000000?style=for-the-badge&logo=futurelearn&logoColor=white)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-### Query
+### 
 ![](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 
 
@@ -169,7 +180,8 @@
 
 
 	
-## 💲
+## 
+### 💲
 ![Phonepay](https://img.shields.io/badge/phonepe-3DDC84?style=for-the-badge&logo=phonepe&logoColor=white&color=purple)
 ![Googlepay]( https://img.shields.io/badge/G%20pay-2875E3?style=for-the-badge&logo=googlepay&logoColor=white)
 ![Paytm]( https://img.shields.io/badge/Paytm-002970?style=for-the-badge&logo=paytm&logoColor=00BAF2)
