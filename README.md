@@ -5,7 +5,6 @@
 
 ### 
 <p align="center">
-  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=ashokabairwaideology&style=flat&color=blue"/> •   
   <a href="https://user-badge.committers.top/india_private/ashokabairwaideology"><img src="https://user-badge.committers.top/india_private/JayantGoel001.svg"/></a> •
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/ashokabairwaideology?label=Followers&style=social"/> •
   <img src="https://img.shields.io/github/stars/ashokabairwaideology?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/> •
