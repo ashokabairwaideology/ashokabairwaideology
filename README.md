@@ -25,7 +25,7 @@
 [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://accounts.snapchat.com/v2/welcome)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AshokaBairwa382)
 ![Followers](https://img.shields.io/github/followers/ashokabairwaideology)
-![Followers](https://img.shields.io/instagram/followers/ashokabairwaideology)
+![Followers](https://img.shields.io/instagram/followers/ashoka_bairwa_ideology)
 
 ### Developer profile
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Ashoka_bairwa)
