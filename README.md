@@ -15,50 +15,6 @@
 
 
 
-## 🌐 Profile
-### Social profile
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ashoka.bairwa.96) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/risky.ashoka) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashoka_bairwa_ideology)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashoka-bairwa-ideology382)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ashokabairwa382a) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ashoka-ideology382a) 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AshokaBairwa382)
-
-
-### 💻Developer profile
-[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Ashoka_bairwa)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/ashokabairwa382)
-[![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/en/profile/15521554)
-[![Chodchef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/ashokabairwa38)
-[![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@ashoka16)
-
-
-## 
-[![Youtube Channel](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ashoka-ideology382a)
-![](https://img.shields.io/youtube/@ashoka-ideology382a/views/UCWdqlKVGfefFEqDUiViqU-Q)
-![](https://img.shields.io/youtube/@ashoka-ideology382a/subscribers/UCWdqlKVGfefFEqDUiViqU-Q)
-
-
-
-<a href='https://youtu.be/AtQYFBt0Pmk' target='_blank'>
-  <img width='18%' src='https://i9.ytimg.com/vi/AtQYFBt0Pmk/sddefault.jpg?v=66c45575&sqp=COSX9rYG&rs=AOn4CLCP1zwmQF__zlo9NwCFB5chgHHolA' alt='Finish' />
-</a>
-<a href='https://youtu.be/8KCn_z8zOmw?si=PnilFbDH-ZUD-viK' target='_blank'>
-  <img width='18%' src='https://i9.ytimg.com/vi/8KCn_z8zOmw/sddefault.jpg?v=66c6be66&sqp=CLiV9rYG&rs=AOn4CLD5XELdvgeo4ltGBan6wf8pi9geag' alt='Daily motivation' />
-</a>
-<a href='https://youtu.be/AuIzpaAC5Ig?si=6U6zf6zNGajw7CW0' target='_blank'>
-  <img width='18%' src='https://i9.ytimg.com/vi/AuIzpaAC5Ig/hqdefault.jpg?v=66c6bd6e&sqp=CLiV9rYG&rs=AOn4CLBnbosgiYv3XUwspOfliFF7b187Ig' alt='Fear' />
-</a>
-<a href='https://youtu.be/YAV7m9lv3OQ' target='_blank'>
-  <img width='18%' src='https://i9.ytimg.com/vi/YAV7m9lv3OQ/sddefault.jpg?v=66c45962&sqp=CJCa9rYG&rs=AOn4CLBzgeai44HEluhUsaGfRH9ma-Ib4w' alt='Daily motivation' />
-</a>
-<a href='https://youtu.be/IhPGKOr8xF4' target='_blank'>
-  <img width='18%' src='https://i9.ytimg.com/vi/IhPGKOr8xF4/hqdefault.jpg?v=66c45067&sqp=COSX9rYG&rs=AOn4CLB07wG22jytJ48C7t7gc6HasCvFpg' alt='Fear' />
-</a>
-
-
 
 
 # 💻 Tech Stack
@@ -145,6 +101,50 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ashokabairwaideology&limit=10&theme=merko&combine_all_yearly_contributions=true)
 
 ---
+## 🌐 Profile
+### Social profile
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ashoka.bairwa.96) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/risky.ashoka) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashoka_bairwa_ideology)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashoka-bairwa-ideology382)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ashokabairwa382a) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ashoka-ideology382a) 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AshokaBairwa382)
+
+
+### 💻Developer profile
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Ashoka_bairwa)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/ashokabairwa382)
+[![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/en/profile/15521554)
+[![Chodchef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/ashokabairwa38)
+[![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@ashoka16)
+
+
+## 
+[![Youtube Channel](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ashoka-ideology382a)
+![](https://img.shields.io/youtube/@ashoka-ideology382a/views/UCWdqlKVGfefFEqDUiViqU-Q)
+![](https://img.shields.io/youtube/@ashoka-ideology382a/subscribers/UCWdqlKVGfefFEqDUiViqU-Q)
+
+
+
+<a href='https://youtu.be/AtQYFBt0Pmk' target='_blank'>
+  <img width='18%' src='https://i9.ytimg.com/vi/AtQYFBt0Pmk/sddefault.jpg?v=66c45575&sqp=COSX9rYG&rs=AOn4CLCP1zwmQF__zlo9NwCFB5chgHHolA' alt='Finish' />
+</a>
+<a href='https://youtu.be/8KCn_z8zOmw?si=PnilFbDH-ZUD-viK' target='_blank'>
+  <img width='18%' src='https://i9.ytimg.com/vi/8KCn_z8zOmw/sddefault.jpg?v=66c6be66&sqp=CLiV9rYG&rs=AOn4CLD5XELdvgeo4ltGBan6wf8pi9geag' alt='Daily motivation' />
+</a>
+<a href='https://youtu.be/AuIzpaAC5Ig?si=6U6zf6zNGajw7CW0' target='_blank'>
+  <img width='18%' src='https://i9.ytimg.com/vi/AuIzpaAC5Ig/hqdefault.jpg?v=66c6bd6e&sqp=CLiV9rYG&rs=AOn4CLBnbosgiYv3XUwspOfliFF7b187Ig' alt='Fear' />
+</a>
+<a href='https://youtu.be/YAV7m9lv3OQ' target='_blank'>
+  <img width='18%' src='https://i9.ytimg.com/vi/YAV7m9lv3OQ/sddefault.jpg?v=66c45962&sqp=CJCa9rYG&rs=AOn4CLBzgeai44HEluhUsaGfRH9ma-Ib4w' alt='Daily motivation' />
+</a>
+<a href='https://youtu.be/IhPGKOr8xF4' target='_blank'>
+  <img width='18%' src='https://i9.ytimg.com/vi/IhPGKOr8xF4/hqdefault.jpg?v=66c45067&sqp=COSX9rYG&rs=AOn4CLB07wG22jytJ48C7t7gc6HasCvFpg' alt='Fear' />
+</a>
+
+
 
 
 ### 
