@@ -1,10 +1,16 @@
 ##
-<img align="centre" src="https://img.shields.io/badge/Intel-Core_i5_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-
+<div>
+<div>
+<img align="left" src="https://img.shields.io/badge/Intel-Core_i5_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+</div>
+<div>
 <img align="right" src="https://visitcount.itsvg.in/api?id=ashokabairwaideology&icon=6&color=10)](https://visitcount.itsvg.in" />
-
+</div>
+<div
+	
 ### 
-<p align="center">
+	
+<p align="auto">
   <a href="https://user-badge.committers.top/india_private/ashokabairwaideology"><img src="https://user-badge.committers.top/india_private/JayantGoel001.svg"/></a> •
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/ashokabairwaideology?label=Followers&style=social"/> •
   <img src="https://img.shields.io/github/stars/ashokabairwaideology?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/> •
