@@ -98,7 +98,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ashokabairwaideology&limit=10&theme=merko&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ashokabairwaideology&limit=10&theme=merko)
 
 ---
 ## 🌐 Profile
@@ -147,7 +147,8 @@
 
 
 
-### 
+##
+
 ![Skill Share💡](https://img.shields.io/badge/skill%20share-002333?style=for-the-badge&logo=skillshare&logoColor=white)
 ![ToDo list ⌛️]( 	https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white) 
 
