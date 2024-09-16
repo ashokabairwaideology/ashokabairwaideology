@@ -199,25 +199,29 @@
 Click to see Channels--
 
 <a href='https://web.telegram.org/k/#@Ashokabairwaideology' target='_blank'>
-  <img width='18%' src='https://github.com/user-attachments/assets/05176634-6639-47cc-b716-c5024440127c' alt='Motivation' />
+  <img width='30%' src='https://github.com/user-attachments/assets/863edc30-4e48-49bb-a8f9-46d854e8d1bd' alt='Motivation' />
 </a>
-<a href='https://web.telegram.org/k/#-972860135' target='_blank'>
-  <img width='18%' src='https://github.com/user-attachments/assets/7651063e-c28c-4379-b8bc-23b645b86537' alt='Mystery hub' />
+<a href='https://t.me/+xZ1-XJy7q_00N2Q9' target='_blank'>
+  <img width='30%' src='https://github.com/user-attachments/assets/437ed320-d870-4d0b-a1da-9831490fea65' alt='Mystery hub' />
 </a>
 <a href='https://web.telegram.org/k/#@movies_ashoka' target='_blank'>
-  <img width='18%' src='https://github.com/user-attachments/assets/a6b9eebf-2d0c-449a-b08a-ab04d1def4ce' alt='Movies hub' />
+  <img width='30%' src='https://github.com/user-attachments/assets/65a463ed-b5b1-4332-8b40-a7e5e778f80d' alt='Movies hub' />
 
 </a>
 <a href='https://web.telegram.org/k/#-829633293' target='_blank'>
-  <img width='18%' src='https://github.com/user-attachments/assets/de10631a-1e6a-483e-87aa-d771f8058ac6' alt='Useful sites' />
+  <img width='30%' src='https://github.com/user-attachments/assets/7c8f6c85-8f70-482c-a258-2ed418702b32' alt='Useful sites' />
 </a>
 <a href='https://web.telegram.org/k/#-4182444309' target='_blank'>
-  <img width='18%' src='https://github.com/user-attachments/assets/e49d76b0-5a58-48a4-8b62-1fbdf3f7ad61' alt='Notes' />
+  <img width='30%' src='https://github.com/user-attachments/assets/6df52955-374b-4476-8f30-301c7cea6b2e' alt='Notes' />
+</a>
+<a href='https://t.me/+Ge_s5-DYLY9mYzll' target='_blank'>
+  <img width='30%' src='https://github.com/user-attachments/assets/c181ba9c-722a-4dd3-9d24-175426f6fb7a' alt='Rubik cube' />
 </a>
 
 
 
-###
+## 
+
 ![Skill Share💡](https://img.shields.io/badge/skill%20share-002333?style=for-the-badge&logo=skillshare&logoColor=white)
 ![ToDo list ⌛️](https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white) 
 
