@@ -145,19 +145,19 @@
 
 
 <a href='https://youtu.be/AtQYFBt0Pmk' target='_blank'>
-  <img width='18%' src='https://i9.ytimg.com/vi/AtQYFBt0Pmk/sddefault.jpg?v=66c45575&sqp=COSX9rYG&rs=AOn4CLCP1zwmQF__zlo9NwCFB5chgHHolA' alt='Finish' />
+  <img width='18%' src='https://i9.ytimg.com/vi/AtQYFBt0Pmk/mqdefault.jpg?v=66c45575&sqp=CIz2oLcG&rs=AOn4CLBG8KzhJgigKKXME3rNYGKFv3w2GQ' alt='Finish' />
 </a>
 <a href='https://youtu.be/8KCn_z8zOmw?si=PnilFbDH-ZUD-viK' target='_blank'>
-  <img width='18%' src='https://i9.ytimg.com/vi/8KCn_z8zOmw/sddefault.jpg?v=66c6be66&sqp=CLiV9rYG&rs=AOn4CLD5XELdvgeo4ltGBan6wf8pi9geag' alt='Daily motivation' />
+  <img width='18%' src='https://i9.ytimg.com/vi/8KCn_z8zOmw/mqdefault.jpg?v=66c6be66&sqp=CIz2oLcG&rs=AOn4CLA2GpL0zq7lH_jYCvsVxARVnjB_gA' alt='Daily motivation' />
 </a>
 <a href='https://youtu.be/AuIzpaAC5Ig?si=6U6zf6zNGajw7CW0' target='_blank'>
-  <img width='18%' src='https://i9.ytimg.com/vi/AuIzpaAC5Ig/hqdefault.jpg?v=66c6bd6e&sqp=CLiV9rYG&rs=AOn4CLBnbosgiYv3XUwspOfliFF7b187Ig' alt='Fear' />
+  <img width='18%' src='https://i9.ytimg.com/vi/AuIzpaAC5Ig/mqdefault.jpg?v=66c6bd6e&sqp=CIz2oLcG&rs=AOn4CLBZR7nyfX8TdIvE8FM9nNoFYeBD0g' alt='Fear' />
 </a>
 <a href='https://youtu.be/YAV7m9lv3OQ' target='_blank'>
-  <img width='18%' src='https://i9.ytimg.com/vi/YAV7m9lv3OQ/sddefault.jpg?v=66c45962&sqp=CJCa9rYG&rs=AOn4CLBzgeai44HEluhUsaGfRH9ma-Ib4w' alt='Daily motivation' />
+  <img width='18%' src='https://i9.ytimg.com/vi/YAV7m9lv3OQ/mqdefault.jpg?v=66c45962&sqp=CLj4oLcG&rs=AOn4CLBa6qfTdePQ3DAV3bGkBIuCXQkqSA' alt='Become obessed' />
 </a>
 <a href='https://youtu.be/IhPGKOr8xF4' target='_blank'>
-  <img width='18%' src='https://i9.ytimg.com/vi/IhPGKOr8xF4/hqdefault.jpg?v=66c45067&sqp=COSX9rYG&rs=AOn4CLB07wG22jytJ48C7t7gc6HasCvFpg' alt='Fear' />
+  <img width='18%' src='https://i9.ytimg.com/vi/IhPGKOr8xF4/mqdefault.jpg?v=66c45067&sqp=CLj4oLcG&rs=AOn4CLACwX41YE04OboE2Vb2P15gZGp8tQ' alt='Fear' />
 </a>
 
 
