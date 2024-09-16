@@ -160,6 +160,61 @@
 </a>
 
 
+##
+[![Shorts](https://img.shields.io/badge/YouTube%20Shorts-FF0000.svg?style=for-the-badge&logo=YouTube-Shorts&logoColor=white)](https://www.youtube.com/@ashoka-ideology382a/shorts)
+
+<a href='https://www.youtube.com/shorts/H8CweS5BD38' target='_blank'>
+  <img width='18%' src='https://i.ytimg.com/vi/H8CweS5BD38/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAcC1om3cZDDFbz1-vkKD9WREwYRA' alt='Respect' />
+</a>
+<a href='https://www.youtube.com/shorts/NoL8SPu-8vM' target='_blank'>
+  <img width='18%' src='https://i.ytimg.com/vi/NoL8SPu-8vM/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAC8eE1BeDEa-Fe1mqb9iNXfGjHTA' alt='Consistency' />
+</a>
+<a href='https://www.youtube.com/shorts/8U6O1zIgyVc' target='_blank'>
+  <img width='18%' src='https://i.ytimg.com/vi/8U6O1zIgyVc/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAvABNglaETECcp5J0R40z2rpHN0A' alt='Routine' />
+</a>
+<a href='https://www.youtube.com/shorts/Rt6sVwv0c64' target='_blank'>
+  <img width='18%' src='https://i.ytimg.com/vi/Rt6sVwv0c64/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBekKnUeS62gyL-gqtnEmqK0F6zNg' alt='Analysis' />
+</a>
+<a href='https://www.youtube.com/shorts/W9VOYjphTI8' target='_blank'>
+  <img width='18%' src='https://i.ytimg.com/vi/W9VOYjphTI8/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLD5J8HQgyrI-JXN-XnzcKqRx9qgZQ' alt='First sound' />
+</a>
+<a href='https://www.youtube.com/shorts/pnMhIackuGU' target='_blank'>
+  <img width='18%' src='https://i.ytimg.com/vi/pnMhIackuGU/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLD5kqTpIuUnx2DMZSID9DMGG8Nblg' alt='Daughter' />
+</a>
+<a href='https://www.youtube.com/shorts/M9W7Gd7nXSc' target='_blank'>
+  <img width='18%' src='https://i.ytimg.com/vi/M9W7Gd7nXSc/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAKedHLAg-ficLoGEA0AkhXCziOBw' alt='Misunderstanding' />
+</a>
+<a href='https://www.youtube.com/shorts/A5d7mzZqteA' target='_blank'>
+  <img width='18%' src='https://i.ytimg.com/vi/A5d7mzZqteA/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCNq8nSthnddXI2cDIMstDsiFwtgQ' alt='Art' />
+</a>
+<a href='https://www.youtube.com/shorts/XBgIxWMHZb0' target='_blank'>
+  <img width='18%' src='https://i.ytimg.com/vi/XBgIxWMHZb0/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLD0symNToitaBE5RSx45xW5O9JBtA' alt='Treat' />
+</a>
+<a href='https://www.youtube.com/shorts/90c3qKaFglo' target='_blank'>
+  <img width='18%' src='https://i.ytimg.com/vi/90c3qKaFglo/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBN-cmng6w-oDRCrbEYglIwq58N0w' alt='Choice' />
+</a>
+
+##
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)
+Click to see Channels--
+
+<a href='https://web.telegram.org/k/#@Ashokabairwaideology' target='_blank'>
+  <img width='18%' src='https://github.com/user-attachments/assets/05176634-6639-47cc-b716-c5024440127c' alt='Motivation' />
+</a>
+<a href='https://web.telegram.org/k/#-972860135' target='_blank'>
+  <img width='18%' src='https://github.com/user-attachments/assets/7651063e-c28c-4379-b8bc-23b645b86537' alt='Mystery hub' />
+</a>
+<a href='https://web.telegram.org/k/#@movies_ashoka' target='_blank'>
+  <img width='18%' src='https://github.com/user-attachments/assets/a6b9eebf-2d0c-449a-b08a-ab04d1def4ce' alt='Movies hub' />
+
+</a>
+<a href='https://web.telegram.org/k/#-829633293' target='_blank'>
+  <img width='18%' src='https://github.com/user-attachments/assets/de10631a-1e6a-483e-87aa-d771f8058ac6' alt='Useful sites' />
+</a>
+<a href='https://web.telegram.org/k/#-4182444309' target='_blank'>
+  <img width='18%' src='https://github.com/user-attachments/assets/e49d76b0-5a58-48a4-8b62-1fbdf3f7ad61' alt='Notes' />
+</a>
+
 
 
 ###
@@ -176,7 +231,6 @@
 ### 
 ##
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://web.telegram.org/k/#@movies_ashoka)
-[![Shorts](https://img.shields.io/badge/YouTube%20Shorts-FF0000.svg?style=for-the-badge&logo=YouTube-Shorts&logoColor=white)](https://www.youtube.com/@ashoka-ideology382a/shorts)
 [![Gmail 📩](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#all?compose=new)
 [![CV](https://img.shields.io/badge/Read.cv-111111.svg?style=for-the-badge&logo=readdotcv&logoColor=green)](https://github.com/user-attachments/files/17015009/Ashoka.update.pdf)
 
