@@ -230,8 +230,7 @@ Click to see Channels--
 
 ### 
 ##
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://web.telegram.org/k/#@movies_ashoka)
-[![Gmail 📩](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#all?compose=new)
+
 [![CV](https://img.shields.io/badge/Read.cv-111111.svg?style=for-the-badge&logo=readdotcv&logoColor=green)](https://github.com/user-attachments/files/17015009/Ashoka.update.pdf)
 
 
