@@ -186,10 +186,10 @@
 
 	
 ## 
-### 💲
-![Phonepay](https://img.shields.io/badge/phonepe-3DDC84?style=for-the-badge&logo=phonepe&logoColor=white&color=purple)
-![Googlepay]( https://img.shields.io/badge/G%20pay-2875E3?style=for-the-badge&logo=googlepay&logoColor=white)
-![Paytm]( https://img.shields.io/badge/Paytm-002970?style=for-the-badge&logo=paytm&logoColor=00BAF2)
+### 💲 Donation
+[![Phonepay](https://img.shields.io/badge/phonepe-3DDC84?style=for-the-badge&logo=phonepe&logoColor=white&color=purple)](https://github.com/user-attachments/assets/4caa7fd7-95b1-473d-95a0-515f51e183cd)
+
+
 
 <img align="right" src="https://profile-counter.glitch.me/ashokabairwaideology/count.svg?"  />
 
