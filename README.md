@@ -144,19 +144,19 @@
 
 
 <a href='https://youtu.be/AtQYFBt0Pmk' target='_blank'>
-  <img width='18%' src='https://i9.ytimg.com/vi/AtQYFBt0Pmk/mqdefault.jpg?v=66c45575&sqp=CIz2oLcG&rs=AOn4CLBG8KzhJgigKKXME3rNYGKFv3w2GQ' alt='Finish' />
+  <img width='18%' src='https://github.com/user-attachments/assets/5b29597d-8402-4c5f-ad36-1d2d618f3cdf' alt='Finish' />
 </a>
 <a href='https://youtu.be/8KCn_z8zOmw?si=PnilFbDH-ZUD-viK' target='_blank'>
-  <img width='18%' src='https://i9.ytimg.com/vi/8KCn_z8zOmw/mqdefault.jpg?v=66c6be66&sqp=CIz2oLcG&rs=AOn4CLA2GpL0zq7lH_jYCvsVxARVnjB_gA' alt='Daily motivation' />
+  <img width='18%' src='https://github.com/user-attachments/assets/3d2869de-8a02-4f30-b38b-47dab1d6fd5c' alt='Daily motivation' />
 </a>
 <a href='https://youtu.be/AuIzpaAC5Ig?si=6U6zf6zNGajw7CW0' target='_blank'>
-  <img width='18%' src='https://i9.ytimg.com/vi/AuIzpaAC5Ig/mqdefault.jpg?v=66c6bd6e&sqp=CIz2oLcG&rs=AOn4CLBZR7nyfX8TdIvE8FM9nNoFYeBD0g' alt='Fear' />
+  <img width='18%' src='https://github.com/user-attachments/assets/34afd26d-e39b-48a8-adff-df6cd6356929' alt='Fear' />
 </a>
 <a href='https://youtu.be/YAV7m9lv3OQ' target='_blank'>
-  <img width='18%' src='https://i9.ytimg.com/vi/YAV7m9lv3OQ/mqdefault.jpg?v=66c45962&sqp=CLj4oLcG&rs=AOn4CLBa6qfTdePQ3DAV3bGkBIuCXQkqSA' alt='Become obessed' />
+  <img width='18%' src='https://github.com/user-attachments/assets/7a7f1b40-51dd-41bd-9ce8-291d8c5877b0' alt='Become obessed' />
 </a>
 <a href='https://youtu.be/IhPGKOr8xF4' target='_blank'>
-  <img width='18%' src='https://i9.ytimg.com/vi/IhPGKOr8xF4/mqdefault.jpg?v=66c45067&sqp=CLj4oLcG&rs=AOn4CLACwX41YE04OboE2Vb2P15gZGp8tQ' alt='Fear' />
+  <img width='18%' src='https://github.com/user-attachments/assets/9428654b-3e09-4976-a440-3633b4bc2cb7' alt='Push throgh pain' />
 </a>
 
 
