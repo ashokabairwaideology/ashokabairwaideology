@@ -7,7 +7,8 @@
 <img align="right" src="https://visitcount.itsvg.in/api?id=ashokabairwaideology&icon=6&color=10)](https://visitcount.itsvg.in" />
 </div>
 <div
-	
+
+ 
 ### 
 	
 <p align="auto">
@@ -18,9 +19,29 @@
 </p>
 
 
-### 
+##
+
+###
+
+<b>*About Me*:</b> \
+  🎓 &nbsp;I'm currently learning Ethical hacking.\
+  💡 &nbsp;Some technologies I enjoy working with include Python, MySQL, Git, HTML, CSS, C, Linux.\
+  🌱 &nbsp;I'm on track for learning more about Data Structures and Algorithm, Software Development, Systems Design.\
+  👨‍💻 &nbsp;I am practising on [LeetCode](https://leetcode.com/u/Ashoka_bairwa/),  [HackerRank](https://www.hackerrank.com/profile/ashokabairwa382)\
+  ✉️ &nbsp;Get in touch with me via email at ```ashokabairwa382@gmail.com```. 
+
+ <b> </b>
+
+<img align="centre" height="20%" src="https://github.com/user-attachments/assets/5c166675-e4ac-427d-82de-07950e180247"  />
+
+
+
+
+###
 
 <img align="centre" height="50%" src="https://github.com/user-attachments/assets/32bac2f8-6bb2-41bf-9e93-76545d828306"  />
+
+
 
 
 
@@ -99,25 +120,30 @@
 
 ### 
 ## Leetcode
-  <div align="center" width="100%">
+
+  <div align="left" width="60%">
  
   ![LeetCode Stats](https://leetcode.card.workers.dev/Ashoka_bairwa?theme=auto&font=baloo&extension=null)
  
   </div>
-
+ 
 ###
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ashokabairwaideology&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ashokabairwaideology&theme=gruvbox&no-frame=false&no-bg=true&margin-w=5)
 
 ### ✍️ Random Ashoka-bairwa Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ashokabairwaideology&limit=10&theme=merko&combine_all_yearly_contributions=true)
+<div align="centre" height="30%">
+<img src="https://github-contributor-stats.vercel.app/api?username=ashokabairwaideology&limit=10&theme=merko&combine_all_yearly_contributions=true"/>
+</div>
 
----
+
 ## 🌐 Profile
+
 ### Social profile
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ashoka.bairwa.96) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/risky.ashoka) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashoka_bairwa_ideology)
