@@ -39,7 +39,7 @@
 <img align="centre" height="20%" src="https://github.com/user-attachments/assets/5c166675-e4ac-427d-82de-07950e180247"  />
 
 
-### 💻Developer profile
+### 💻Developer profile {click on it}
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Ashoka_bairwa)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/ashokabairwa382)
 [![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/en/profile/15521554)
@@ -50,6 +50,8 @@
 ##
 
 [![CV](https://img.shields.io/badge/Read.cv-111111.svg?style=for-the-badge&logo=readdotcv&logoColor=green)](https://github.com/user-attachments/files/17015009/Ashoka.update.pdf)
+
+[![Download resume]](https://drive.google.com/file/d/1iI1EccQ39wlRsJABqygfQMeVSrDjtH-n/view)
 
 
 
