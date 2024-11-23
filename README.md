@@ -57,7 +57,7 @@
 
 ###
 
-<img align="centre" height="50%" src="https://github.com/user-attachments/assets/32bac2f8-6bb2-41bf-9e93-76545d828306"  />
+<img align="centre" height="auto" src="https://github.com/user-attachments/assets/32bac2f8-6bb2-41bf-9e93-76545d828306"  />
 
 
 
